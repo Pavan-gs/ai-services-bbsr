@@ -1,2 +1,3 @@
-v=10
-print("my value is v")
+v=20
+print("my value of v is changed to:", v)
+
