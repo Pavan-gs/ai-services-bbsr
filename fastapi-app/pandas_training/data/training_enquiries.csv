@@ -1,0 +1,10 @@
+enquiry_id,course_id,student_name,email,phone,quoted_fee,discount_pct,enquiry_date
+3001,11,Aarav Rao,aarav@example.com,9876501011,30000,10,2026-09-01
+3002,12,Diya Sen,diya@example.com,9876501012,24000,5,2026-09-02
+3003,13,Kabir Das,kabir@example.com,9876501013,20000,0,2026-09-03
+3004,14,Meera Nair,,9876501014,18000,10,2026-09-04
+3005,15,Rohan Patil,rohan@example.com,9876501015,22000,5,2026-09-05
+3006,11,Sana Ali,sana@example.com,9876501016,32000,15,2026-09-06
+3007,14,Vikram Roy,vikram@example.com,9876501017,19000,0,2026-09-07
+3002,12,Duplicate Diya,diya2@example.com,9876501099,25000,0,2026-09-08
+3008,99,Nisha Paul,nisha@example.com,9876501018,26000,10,2026-09-09
